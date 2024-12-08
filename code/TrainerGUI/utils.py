@@ -55,7 +55,7 @@ def get_trainer_data(ui_texts: dict, language: str) -> tuple:
     ]
 
     parameters = [
-        (translate_text('Invincible', language), 89999.0, 0x1C20),
+        (translate_text('Invincible', language), 99999.0, 0x1C20),
         (translate_text('Infinite Skills', language), 99999.0, 0x0B60),
         (translate_text('Map-wide Collection', language), 99999.0, 0x1B20),
         (translate_text('One-Hit Kill', language), 99999.0, 0x19A0),
